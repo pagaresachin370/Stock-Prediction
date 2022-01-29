@@ -1,0 +1,2 @@
+# Stock-Prediction
+Stock markets are a pool of uncertainty, they plummet one moment and rocket the other. The latest developments have showcased traders opting for methods and tools to predict the performance of stocks, all of them revolving around AI and ML concepts. In this blog, we will create an ML model that trains itself on realtime data from current market trends and predicts stock value for any given time.
